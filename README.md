@@ -59,7 +59,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.dcumin;
+})();
 })();
 </script>
 ```
@@ -178,6 +180,7 @@ dcumin.ndarray( 4, x, 2, 1, y, -1, y.length-1 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dcumin@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var y;
 var x;
@@ -194,6 +197,7 @@ console.log( y );
 dcumin( x.length, x, 1, y, -1 );
 console.log( y );
 
+})();
 })();
 </script>
 </body>
@@ -295,17 +299,17 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dcumin/main/LICENSE
 
-[@stdlib/array/float64]: https://github.com/stdlib-js/array-float64/tree/umd
+[@stdlib/array/float64]: https://github.com/stdlib-js/array-float64/tree/umd/tree/umd
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
 <!-- <related-links> -->
 
-[@stdlib/stats/base/cumin]: https://github.com/stdlib-js/stats-base-cumin/tree/umd
+[@stdlib/stats/base/cumin]: https://github.com/stdlib-js/stats-base-cumin/tree/umd/tree/umd
 
-[@stdlib/stats/base/dcumax]: https://github.com/stdlib-js/stats-base-dcumax/tree/umd
+[@stdlib/stats/base/dcumax]: https://github.com/stdlib-js/stats-base-dcumax/tree/umd/tree/umd
 
-[@stdlib/stats/base/scumin]: https://github.com/stdlib-js/stats-base-scumin/tree/umd
+[@stdlib/stats/base/scumin]: https://github.com/stdlib-js/stats-base-scumin/tree/umd/tree/umd
 
 <!-- </related-links> -->
 
