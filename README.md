@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import dcumin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dcumin@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dcumin/tags). For example,
+
+```javascript
 import dcumin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dcumin@v0.2.2-deno/mod.js';
 ```
 
@@ -159,7 +164,7 @@ dcumin.ndarray( 4, x, 2, 1, y, -1, y.length-1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import dcumin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dcumin@v0.2.2-deno/mod.js';
+import dcumin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dcumin@deno/mod.js';
 
 var y;
 var x;
