@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-14)
+## Unreleased (2025-01-17)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`fd335df`](https://github.com/stdlib-js/stdlib/commit/fd335dfa566f1b68f4561474aedd775270fb9fad) - **docs:** fix grammar typo in `stats/base/*` [(#4780)](https://github.com/stdlib-js/stdlib/pull/4780) _(by Aayush Khanna, stdlib-bot)_
 -   [`b00d9f1`](https://github.com/stdlib-js/stdlib/commit/b00d9f1064701187f48a05b9753e74ae835b0726) - **docs:** fix typing error in `repl.txt` of `stats/base/*` [(#4750)](https://github.com/stdlib-js/stdlib/pull/4750) _(by Aayush Khanna)_
 -   [`99378ce`](https://github.com/stdlib-js/stdlib/commit/99378ce076b7c6ec7b0ff29aa1ad8feac9121113) - **fix:** wrap void function call in `API_SUFFIX` [(#4603)](https://github.com/stdlib-js/stdlib/pull/4603) _(by Aayush Khanna)_
 -   [`205c6ed`](https://github.com/stdlib-js/stdlib/commit/205c6edb5d756c2e5892c12e18b75a525f4e943f) - **chore:** disable lint rule _(by Philipp Burckhardt)_
