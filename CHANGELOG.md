@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-20)
+## Unreleased (2025-01-21)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`93636cb`](https://github.com/stdlib-js/stdlib/commit/93636cb4114205b439ff8ba24dbaa90f1f824847) - **docs:** update Markdown stdlib package URLs [(#4827)](https://github.com/stdlib-js/stdlib/pull/4827) _(by stdlib-bot)_
 -   [`7fdd232`](https://github.com/stdlib-js/stdlib/commit/7fdd232cf5861d0f25fad1a23d05143211e84d92) - **refactor:** update paths _(by aayush0325)_
 -   [`fd335df`](https://github.com/stdlib-js/stdlib/commit/fd335dfa566f1b68f4561474aedd775270fb9fad) - **docs:** fix grammar typo in `stats/base/*` [(#4780)](https://github.com/stdlib-js/stdlib/pull/4780) _(by Aayush Khanna, stdlib-bot)_
 -   [`b00d9f1`](https://github.com/stdlib-js/stdlib/commit/b00d9f1064701187f48a05b9753e74ae835b0726) - **docs:** fix typing error in `repl.txt` of `stats/base/*` [(#4750)](https://github.com/stdlib-js/stdlib/pull/4750) _(by Aayush Khanna)_

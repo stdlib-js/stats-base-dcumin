@@ -424,7 +424,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/cumin]: https://github.com/stdlib-js/stats-base-cumin
 
-[@stdlib/stats/strided/dcumax]: https://github.com/stdlib-js/stats-base-dcumax
+[@stdlib/stats/strided/dcumax]: https://github.com/stdlib-js/stats-strided-dcumax
 
 [@stdlib/stats/base/scumin]: https://github.com/stdlib-js/stats-base-scumin
 
